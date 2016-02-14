@@ -4,6 +4,8 @@
 JSON Path assert
 ===============
 
+[![Join the chat at https://gitter.im/marcingrzejszczak/jsonpathassert](https://badges.gitter.im/marcingrzejszczak/jsonpathassert.svg)](https://gitter.im/marcingrzejszczak/jsonpathassert?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 TODO
 
 Changelog
